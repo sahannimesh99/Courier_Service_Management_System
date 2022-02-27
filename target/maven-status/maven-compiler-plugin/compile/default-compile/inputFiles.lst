@@ -1,0 +1,16 @@
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\controller\BookDetailsController.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\advisor\AppWideExceptionHandler.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\SpringInitializer.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\repo\BookdetailRepo.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\repo\BookdetailRepoV2.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\service\BookDetailService.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\service\impl\BookDetailServiceImplV2.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\util\StandradResponse.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\config\WebAppConfig.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\controller\BookDetailsControllerV2.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\entity\BookDetailV2.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\dto\BookDetailDTOV2.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\entity\BookDetail.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\service\impl\BookDetailServiceImpl.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\service\BookDetailServiceV2.java
+D:\Courier_Service_Management_System\src\main\java\com\sahan\spring\dto\BookDetailDTO.java
